@@ -26,6 +26,3 @@ Launch the development server using php artisan serve.
 Access the project in your browser at http://localhost:8000.
 Contribution Guidelines
 Contributions to the project are welcome. Please fork the repository, create a new branch for your changes, and submit a pull request detailing the modifications made.
-
-License
-This project is licensed under the MIT License - feel free to use, modify, and distribute the codebase as per the terms of the license.
